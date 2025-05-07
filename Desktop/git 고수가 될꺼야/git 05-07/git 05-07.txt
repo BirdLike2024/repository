@@ -1,6 +1,4 @@
-aaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccccc
+day 05-07
 
 //이걸 스테이징 하는 법 -> git add 파일이름
 //전체 스테이징 하는 법 -> git add .
@@ -22,3 +20,4 @@ ccccccccccccccccccccccc
       이러면 어떤 걸 선택할 거냐고 물어보는데, 선택할 걸 정한다음 스테이징이랑 커밋해주면 문제를 해결해줌과 동시에 새로운 커밋을 만들어줌
 
 //브랜치의 존재의의는 팀프로젝트 할 때 서로 다른 부분의 코드를 팀원들이 각자 짜고 합쳐볼 때 의미가 큼
+
